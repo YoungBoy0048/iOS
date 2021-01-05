@@ -9,8 +9,11 @@
 －软件轻量 图灵VPN只占7MB的空间。
 
 使用方式：
+
 1 [点击进入Testflight链接](https://testflight.apple.com/join/ud1FVIMV) 
+
 2 打开链接后，按照步骤首先点击安装Testflight
+
 3 按照步骤点击安装图灵vpn
 
 任何问题或建议欢迎提Issue或者加入 [图灵VPN问题反馈群组](https://t.me/joinchat/PPJzrRiBH5t5mNmfV57WZA)
