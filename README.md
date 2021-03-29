@@ -1,4 +1,4 @@
-# iOS（Testflight安装）
+# iOS（TestFlight安装）
 
 －简单 无需注册，无需设置，一键翻墙。 下载图灵VPN后点击开关就可翻墙。
 
@@ -10,12 +10,12 @@
 
 使用方式：
 
-1 [点击进入Testflight链接](https://testflight.apple.com/join/ud1FVIMV) 
+1 [点击进入TestFlight链接](https://testflight.apple.com/join/ud1FVIMV) 
 
-2 打开链接后，按照步骤首先点击安装Testflight
+2 打开链接后，按照步骤首先点击安装TestFlight
 
-3 按照步骤点击安装图灵vpn
+3 按照步骤点击安装图灵VPN
 
-4 在Testflight中设置打开自动更新（重要！以免更新不及时影响使用）
+4 在TestFlight中设置打开自动更新（重要！以免更新不及时影响使用）
 
 任何问题或建议欢迎提Issue或者加入 [图灵VPN问题反馈群组](https://t.me/joinchat/PPJzrRiBH5t5mNmfV57WZA)
